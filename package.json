@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/CollabCodeTech/criar-servidor-express/issues"
   },
-  "homepage": "https://github.com/CollabCodeTech/criar-servidor-express#readme"
+  "homepage": "https://github.com/CollabCodeTech/criar-servidor-express#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
